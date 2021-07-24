@@ -1,0 +1,6 @@
+flask==2.0.1
+flask_ngrok==0.0.25
+numpy==1.21.1
+open-cv==4.0.1
+pytesseract==0.3.7
+regex==2021.7.6
